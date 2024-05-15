@@ -1,1 +1,4 @@
 Justin Harper 
+Joseph Gallegos
+Kevin Uduji
+Megan Osakwe
