@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100px;
+    background-color: #FFFFFF;
+    color: white;
+}
+
+.logo{
+    float: left;
+    display: block;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+}
+
+.links{
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.userIcon{
+    position: absolute;
+    right: 370px;
+    display: block;
+    width: 20px;
+    height: 20px;
+}
+
+.username{
+    position: absolute;
+    top: 38px;
+    right: 300px;
+    display: block;
+    align-items: center;
+    font-family: 'Gill Sans', sans-serif;
+    color: #CCCCCC;
+}
+
