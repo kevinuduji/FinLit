@@ -1,0 +1,33 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "caniuse-lite": "^1.0.30001618",
+    "client-only": "^0.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "graceful-fs": "^4.2.11",
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "nanoid": "^3.3.7",
+    "next": "^14.2.3",
+    "nodemon": "^3.1.0",
+    "picocolors": "^1.0.1",
+    "postcss": "^8.4.31",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "scheduler": "^0.23.2",
+    "source-map-js": "^1.2.0",
+    "streamsearch": "^1.1.0",
+    "styled-jsx": "^5.1.1",
+    "tslib": "^2.6.2"
+  },
+  "scripts": {
+    "start:dev": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
