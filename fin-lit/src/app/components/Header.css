@@ -8,18 +8,49 @@
 }
 
 .logo{
+    position: absolute;
+    left: 100px;
     float: left;
     display: block;
     align-items: center;
-    width: 50px;
+    width: 105px;
     height: 50px;
 }
 
-.links{
+.title{
+    position: absolute;
+    left: 220px;
+    display: flex;
+    color: #bb3630;
+    justify-content: space-between;
+    font-family: 'American Typewriter', serif;
+    font-weight: bold;
+}
+
+.link1{
+    position: absolute;
+    left: 500px;
     display: flex;
     color: black;
-    align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.link2{
+    position: absolute;
+    left: 590px;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.link3{
+    position: absolute;
+    left: 700px;
+    display: flex;
+    color: black;
+    justify-content: space-between;
     font-family: 'Gill Sans', sans-serif;
 }
 
@@ -40,4 +71,5 @@
     font-family: 'Gill Sans', sans-serif;
     color: #CCCCCC;
 }
+
 
